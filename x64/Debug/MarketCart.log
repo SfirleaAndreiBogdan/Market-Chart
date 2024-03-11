@@ -1,0 +1,45 @@
+﻿  MarketCart.c
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(119,13): warning C4047: 'return': 'node *' differs in levels of indirection from 'node **'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(168,24): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(168,12): warning C4024: 'clear': different types for formal and actual parameter 1
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(179,27): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(191,29): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(206,27): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(219,29): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(223,24): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(223,12): warning C4024: 'clear': different types for formal and actual parameter 1
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(234,28): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(246,30): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(272,27): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(285,29): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(289,25): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(289,13): warning C4024: 'clear': different types for formal and actual parameter 1
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(300,28): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(312,30): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(327,28): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(340,30): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(344,25): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(344,13): warning C4024: 'clear': different types for formal and actual parameter 1
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(355,28): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(367,30): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(410,26): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(410,14): warning C4024: 'clear': different types for formal and actual parameter 1
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(448,29): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(461,31): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(465,26): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(465,14): warning C4024: 'clear': different types for formal and actual parameter 1
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(476,29): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(488,31): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(514,31): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(527,33): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(531,27): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(531,15): warning C4024: 'clear': different types for formal and actual parameter 1
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(542,31): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(552,33): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(567,31): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(580,33): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(584,27): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(584,15): warning C4024: 'clear': different types for formal and actual parameter 1
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(595,31): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\twedg\source\repos\MarketCart\MarketCart\MarketCart.c(607,33): warning C4305: 'function': truncation from 'double' to 'float'
+  MarketCart.vcxproj -> C:\Users\twedg\source\repos\MarketCart\x64\Debug\MarketCart.exe
